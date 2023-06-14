@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019749387998",
+    "firebase_url": "https://name-6b124-default-rtdb.firebaseio.com",
+    "project_id": "name-6b124",
+    "storage_bucket": "name-6b124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019749387998:android:8bad8dcf62461cb577fc4f",
+        "android_client_info": {
+          "package_name": "com.example.sample_finance_intern_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019749387998-hia4f5tm6tuif2hg4iv0770c3bedddvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HmJKzioBEWeMBkjsJDfi8CqblJtM9jQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019749387998-hia4f5tm6tuif2hg4iv0770c3bedddvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
