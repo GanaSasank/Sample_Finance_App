@@ -1,1 +1,1 @@
-# Sample_Finance_Intern_App
+# Sample_Finance_App
